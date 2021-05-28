@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<db_xml>
+    <atelierb version="3_7_ubuntu-cvs" />
+    <project decomp_dir="E:\Academics\4th year\Reasoning\Workspace\Robot_Moving_in_a_maze\bdp\expand_src" old_decomp_dir="E:\Academics\4th year\Reasoning\Workspace\Robot_Moving_in_a_maze\bdp\src">
+        <!-- Definition directory list -->
+        <!-- Component file list -->
+        <component_file path="E:/Academics/4th year/Reasoning/Workspace/Robot_Moving_in_a_maze" name="Maze" suffix="mch" user="himas">
+            <component name="Maze" type="specification" />
+        </component_file>
+        <component_file path="E:/Academics/4th year/Reasoning/Workspace/Robot_Moving_in_a_maze" name="Robot" suffix="mch" user="himas">
+            <component name="Robot" type="specification" />
+        </component_file>
+    </project>
+</db_xml>
